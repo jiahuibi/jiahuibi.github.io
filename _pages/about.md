@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-Hello! I’m Jia-Hui Bi (毕嘉辉), a final-year Ph.D. candidate at Beijing University of Posts and Telecommunications (BUPT). I am with the Key Laboratory of Universal Wireless Communications, Ministry of Education, under the supervision of [Prof. Shaoshi Yang](https://teacher.bupt.edu.cn/yangshaoshi/zh_CN/). My doctoral research focuses on massive MIMO detection and circuit co-design leveraging memristor-based computing-in-memory architectures.
+Hello! I’m Jia-Hui Bi (毕嘉辉), a final-year Ph.D. candidate at Beijing University of Posts and Telecommunications (BUPT). I am affiliated with the Key Laboratory of Universal Wireless Communications, Ministry of Education, where I work under the supervision of [Prof. Shaoshi Yang](https://teacher.bupt.edu.cn/yangshaoshi/zh_CN/). My doctoral research focuses on massive MIMO detection and circuit co-design leveraging memristor-based computing-in-memory architectures.
 
 ## Education
 
