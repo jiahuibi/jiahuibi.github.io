@@ -28,7 +28,7 @@ Major: Electronic Science and Technology
 
 [J1] **Jia-Hui Bi**, Shaoshi Yang, Sheng Chen, and Ping Zhang, "High-speed ultra-energy-efficient memristor-based massive MIMO SIC detector circuit with hybrid analog-digital computing architecture," *IEEE Transactions on Vehicular Technology*, vol. 74, no. 7, pp. 11495-11500, Jul. 2025, doi: [10.1109/TVT.2025.3544093](https://ieeexplore.ieee.org/document/11017468).
 
-[J2] **Jia-Hui Bi**, Shaoshi Yang, Xiao-Yang Wang, Yu-Song Luo, and Sheng Chen, "Cross-link interference mitigation with over-the-air pilot forwarding for dynamic TDD," *IEEE Transactions on Vehicular Technology*, early access, May 2025, doi: [10.1109/TVT.2025.3561218](https://ieeexplore.ieee.org/document/10989763).
+[J2] **Jia-Hui Bi**, Shaoshi Yang, Xiao-Yang Wang, Yu-Song Luo, and Sheng Chen, "Cross-link interference mitigation with over-the-air pilot forwarding for dynamic TDD," *IEEE Transactions on Vehicular Technology*, vol. 74, no. 9, pp. 14811-14816, Sept. 2025, doi: [10.1109/TVT.2025.3561218](https://ieeexplore.ieee.org/document/10989763).
 
 [J3] **Jia-Hui Bi**, Shaoshi Yang, and Ping Zhang, "High-speed and ultra-energy-efficient in-memory computing circuit for ADMM-based box-constrained massive MIMO signal detection," *IEEE Wireless Communications Letters*, early access, Aug. 2025, doi: [10.1109/LWC.2025.3597308](https://ieeexplore.ieee.org/document/11121883).
 
