@@ -30,7 +30,7 @@ Major: Electronic Science and Technology
 
 [J2] **Jia-Hui Bi**, Shaoshi Yang, Xiao-Yang Wang, Yu-Song Luo, and Sheng Chen, "Cross-link interference mitigation with over-the-air pilot forwarding for dynamic TDD," *IEEE Transactions on Vehicular Technology*, vol. 74, no. 9, pp. 14811-14816, Sep. 2025, doi: [10.1109/TVT.2025.3561218](https://ieeexplore.ieee.org/document/10989763).
 
-[J3] **Jia-Hui Bi**, Shaoshi Yang, and Ping Zhang, "High-speed and ultra-energy-efficient in-memory computing circuit for ADMM-based box-constrained massive MIMO signal detection," *IEEE Wireless Communications Letters*, early access, Aug. 2025, doi: [10.1109/LWC.2025.3597308](https://ieeexplore.ieee.org/document/11121883).
+[J3] **Jia-Hui Bi**, Shaoshi Yang, and Ping Zhang, "High-speed and ultra-energy-efficient in-memory computing circuit for ADMM-based box-constrained massive MIMO signal detection," *IEEE Wireless Communications Letters*, vol. 14, no. 11, pp. 3530-3534, Nov. 2025, doi: [10.1109/LWC.2025.3597308](https://ieeexplore.ieee.org/document/11121883).
 
 [J4] Yi-Hang Ren, Shaoshi Yang, **Jia-Hui Bi**, and Yu-Xin Zhang, "Accelerating maximum-likelihood detection in massive MIMO: A new paradigm with memristor crossbar based in-memory computing circuit," *IEEE Transactions on Vehicular Technology*, vol. 73, no. 12, pp. 19745-19750, Dec. 2024, doi: [10.1109/TVT.2024.3447714](https://ieeexplore.ieee.org/document/10738291).
 
